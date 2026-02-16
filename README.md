@@ -1,161 +1,54 @@
-# Hi 👋, I'm Aman Vishwakarma
+<h1 align="center">Engineer by Design</h1>
 
-🚀 Software Engineering Intern @ Red Hat | Performance & Scale  
-🎓 Final Year B.Tech (Computer Science)  
-💡 Backend • Full-Stack • Scalable Systems • Open Source Enthusiast  
-
----
-
-## 👨‍💻 About Me
-
-I am a Software Engineering Intern at Red Hat working with the **Performance & Scale team**, where I’m learning how systems behave under real production workloads.
-
-I’m deeply interested in:
-- ⚙️ System behavior under load
-- 📈 Performance optimization
-- ☁️ Cloud-native systems
-- 🏗️ System design & scalability
-- 🔓 Open-source collaboration
-
-Currently building strong foundations in:
-- Docker
-- Kubernetes
-- Podman
-- Linux ecosystem
-- Performance testing & tooling
-
-I believe in learning by building, shipping, breaking, and fixing.
+<p align="center">
+I automate the boring parts.<br>
+So I can focus on systems that scale.
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Languages & Tools
 
-### Languages
-- Java  
-- JavaScript  
-- SQL  
-- Basic Python  
+<p align="center">
 
-### Backend
-- Node.js  
-- Express  
-- Spring (Core & Boot fundamentals)  
-- REST APIs  
+<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions"/>
+<img src="https://img.shields.io/badge/Backstage-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/X11-A8B9CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open_Source-3DA639?style=for-the-badge"/>
 
-### Frontend
-- React  
-- HTML5  
-- CSS3  
-
-### Databases
-- MongoDB  
-- MySQL  
-
-### Dev & Tools
-- Docker  
-- Git & GitHub  
-- Postman  
-- Linux  
-- Basic CI/CD exposure  
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 What I Build
 
-### 🔍 AI Lost & Found Platform
-Full-stack web platform that uses AI-based tagging to match lost and found items efficiently.
-
-**Tech:** React, Node.js, MongoDB  
-**Focus:** Search optimization, scalable backend structure  
-
----
-
-### 📰 Fake News Detection Browser Extension
-Browser extension that analyzes news content using ML classification techniques.
-
-**Tech:** JavaScript, ML fundamentals  
-**Focus:** Text classification, API integration  
-
----
-
-### 🧠 AnxiPredoMeter – ML-based Anxiety Prediction System
-Built a predictive model using EEG, GSR, and SpO₂ data with a gamified web interface.
-
-**Tech:** Machine Learning, Web UI  
-**Focus:** Data-driven predictions, visualization  
-
----
-
-### 💻 AI Code Debugging Assistant (Hackathon Project)
-Real-time debugging assistant concept for helping developers identify logic issues.
-
-**Focus:** Developer productivity, AI integration  
+- 🖥️ Linux automation tools  
+- ☁️ Cloud-native systems  
+- 🔧 CI/CD productivity systems  
+- 🧠 Developer experience tooling  
 
 ---
 
 ## 🏆 Experience
 
-### 🟥 Red Hat – Software Engineering Intern
-- Working with Performance & Scale team  
-- Learning container ecosystems and system performance analysis  
-- Exposure to OpenShift and production-grade engineering practices  
-
-### 🚀 Co-Founder & CTO (1-Year Startup Journey)
-- Led technical architecture  
-- Built MVP  
-- Managed backend & deployment  
-- Learned execution under constraints  
-
-### 🌱 Internships
-- StarkTech Ventures  
-- Zegnite  
-- CodEvo Solutions  
-
-Hands-on experience in web development and real-world product execution.
+Software Engineering Intern @ Red Hat  
+Working with PerfScale  
 
 ---
 
-## 📚 Core CS Foundations
+## 📈 GitHub Stats
 
-- Operating Systems  
-- DBMS  
-- Computer Networks  
-- Data Structures & Algorithms  
-- Basic System Design  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+</p>
 
 ---
 
-## 🌍 What I’m Exploring Next
-
-- Advanced system design  
-- Performance benchmarking  
-- Cloud-native architectures  
-- Observability & monitoring  
-- Open-source contributions  
-
----
-
-## 🧠 Beyond Code
-
-- 🏸 Badminton  
-- 🎧 Music (Sonu Nigam & Arijit Singh = therapy)  
-- 🎬 Sci-fi & tech web series  
-- 🧪 Experimenting with systems & homelab ideas  
-
----
-
-## 📫 Let's Connect
-
-- LinkedIn: (https://www.linkedin.com/in/aman-vishwakarma-x018730/)
-
----
-
-### 💬 Open To:
-- Open-source collaborations  
-- Backend / Systems Engineering roles  
-- Performance-focused projects  
-- Product-driven engineering teams  
-
----
-
-> “Curiosity over comfort. Systems over shortcuts. Impact over noise.”
+<p align="center">
+Building systems > Writing code.
+</p>
