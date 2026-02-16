@@ -146,9 +146,7 @@ Hands-on experience in web development and real-world product execution.
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Add your link here]
-- Email: [Add your email]
-- GitHub: [Your GitHub link]
+- LinkedIn: (https://www.linkedin.com/in/aman-vishwakarma-x018730/)
 
 ---
 
